@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @kenless92
-- 👀 I’m interested in gaming and fitness  
-- 🌱 I’m currently learning coding
+- 🌐 Passionate about IoT, automation, and data-driven solutions.
+- 💻 Working on Python and VBA projects to streamline processes and enhance efficiency.
+- 📊 Enthusiastic about data analysis, SQL, and building innovative solutions for real-world challenges.
+- 🌱 Always exploring new technologies and ways to improve workflows.
